@@ -1,4 +1,3 @@
-# Bootstrab-Lap
 
 create website similar to this picture using Bootsrap
 
